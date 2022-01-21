@@ -1,2 +1,2 @@
-# iran-provinces-and-cities
+# iran provinces and cities
 JSON file for iran provinces and cities
